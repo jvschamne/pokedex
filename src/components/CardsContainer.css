@@ -1,0 +1,10 @@
+.CardsContainer{
+    width: 80vw;
+    /*organizar cards*/
+    display: flex;
+    flex-flow: wrap;
+    max-width: 90vw;
+    padding: 32px;
+    margin-bottom: 10vh;
+    justify-content: center;
+}

@@ -1,0 +1,18 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: 'Roboto', 'sans-serif';
+  color: white;
+  font-weight: bold;
+}
+
+body, html{
+  min-height: 100vh;
+  height: 100%;
+  background-color: #1156b0
+}
+
+img{
+  max-width: 100%;
+}
+ 
